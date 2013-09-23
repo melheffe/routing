@@ -1,0 +1,158 @@
+{
+    "type": "Ext.tab.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "height": 131,
+        "width": 364,
+        "designer|userClassName": "MyTabPanel",
+        "designer|userAlias": "mytabpanel",
+        "designer|initialView": true,
+        "activeTab": 0
+    },
+    "designerId": "526cbb2a-fc7f-4dbb-ab3a-683bef13fef6",
+    "cn": [
+        {
+            "type": "Ext.panel.Panel",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "width": 913,
+                "title": "Patients"
+            },
+            "designerId": "ccfde232-4e27-4cad-9eed-49e86e5def1a",
+            "cn": [
+                {
+                    "type": "Ext.tab.Tab",
+                    "reference": {
+                        "name": "tabConfig",
+                        "type": "object"
+                    },
+                    "codeClass": null,
+                    "designerId": "31309a76-8bdc-4eb3-b2df-e01bf56e7757"
+                }
+            ]
+        },
+        {
+            "type": "Ext.panel.Panel",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "title": "Destinations"
+            },
+            "designerId": "29de32ad-e09d-40fb-b0cd-9c7e316fe184",
+            "cn": [
+                {
+                    "type": "Ext.tab.Tab",
+                    "reference": {
+                        "name": "tabConfig",
+                        "type": "object"
+                    },
+                    "codeClass": null,
+                    "designerId": "7129ebea-74d8-48a1-bc8f-1c274e6d3cc4"
+                }
+            ]
+        },
+        {
+            "type": "Ext.panel.Panel",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "title": "Drivers"
+            },
+            "designerId": "f05229a8-e24b-4f6b-89a9-335ca504a672",
+            "cn": [
+                {
+                    "type": "Ext.tab.Tab",
+                    "reference": {
+                        "name": "tabConfig",
+                        "type": "object"
+                    },
+                    "codeClass": null,
+                    "designerId": "d154a4a2-aa04-4f6e-baf9-b72973e4cfa5"
+                }
+            ]
+        },
+        {
+            "type": "Ext.panel.Panel",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "title": "Transportation"
+            },
+            "designerId": "9b21d819-c126-4a64-a4b5-385f8eb852c8",
+            "cn": [
+                {
+                    "type": "Ext.tab.Tab",
+                    "reference": {
+                        "name": "tabConfig",
+                        "type": "object"
+                    },
+                    "codeClass": null,
+                    "designerId": "703d241d-2e90-4ac3-8d36-93c35b36de62"
+                }
+            ]
+        },
+        {
+            "type": "Ext.panel.Panel",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "title": "Special Requirements"
+            },
+            "designerId": "6c7a4fb1-fd43-48f4-b16c-5733c97fd252",
+            "cn": [
+                {
+                    "type": "Ext.tab.Tab",
+                    "reference": {
+                        "name": "tabConfig",
+                        "type": "object"
+                    },
+                    "codeClass": null,
+                    "designerId": "6fa27339-2fe8-43f7-bb23-e1c317426185"
+                }
+            ]
+        },
+        {
+            "type": "Ext.panel.Panel",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "title": "Special Requirements"
+            },
+            "designerId": "021fc17d-dd1f-4d84-a072-51e2a8f4703e",
+            "cn": [
+                {
+                    "type": "Ext.tab.Tab",
+                    "reference": {
+                        "name": "tabConfig",
+                        "type": "object"
+                    },
+                    "codeClass": null,
+                    "designerId": "8fbf1eac-db86-46d1-99c7-0f1e5363fc98"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.alert_messages{
+	font-weight: bold;
+	color:	#F60;
+	text-align:center;
+	}

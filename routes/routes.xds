@@ -1,0 +1,49 @@
+{
+    "name": "routes",
+    "settings": {},
+    "xdsVersion": "2.2.2",
+    "xdsBuild": 971,
+    "schemaVersion": 1,
+    "upgradeVersion": 210000000501,
+    "framework": "ext42",
+    "topInstanceFileMap": {
+        "526cbb2a-fc7f-4dbb-ab3a-683bef13fef6": {
+            "paths": [
+                "metadata/view/MyTabPanel",
+                "app/view/override/MyTabPanel.js",
+                "app/view/MyTabPanel.js",
+                "app/view/Viewport.js"
+            ],
+            "className": "MyTabPanel"
+        },
+        "22b80ee0-7bc6-4089-b476-df64377006f4": {
+            "paths": [
+                "metadata/resource/Library"
+            ],
+            "className": "Library"
+        },
+        "1fc892f7-48d1-4a51-919e-4dc603c5829d": {
+            "paths": [
+                "metadata/view/MyContainer",
+                "app/view/override/MyContainer.js",
+                "app/view/MyContainer.js"
+            ],
+            "className": "MyContainer"
+        }
+    },
+    "viewOrderMap": {
+        "view": [
+            "526cbb2a-fc7f-4dbb-ab3a-683bef13fef6",
+            "1fc892f7-48d1-4a51-919e-4dc603c5829d"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "22b80ee0-7bc6-4089-b476-df64377006f4"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
